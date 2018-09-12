@@ -2,6 +2,7 @@
     "@context": "http://www.w3.org/ns/csvw",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:format": "http://concepticon.clld.org/contributions/Starostin-1991-110",
+    "dc:source": "sources.bib",
     "dc:title": "Hmong Mien family in the Global Lexicostatistical Database",
     "dcat:accessURL": "https://github.com/lexibank/starostinhmongmien",
     "rdf:ID": "starostinhmongmien",
