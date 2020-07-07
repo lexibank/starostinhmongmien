@@ -1,0 +1,21 @@
+{
+    "title": "CLDF dataset derived from Starostin's \"Hmong Mien family in the Global Lexicostatistical Database\" from 1991 ",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Robert Forkel"
+        }
+    ],
+    "contributors": [],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Starostin, Sergej. 1991. Altajskaja problema i proischo\u017edenije japonskogo jazyka [The Altaic problem and the origin of the Japanese language]. Moscow: Nauka.</p>\n</blockquote>"
+}
