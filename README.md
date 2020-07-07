@@ -1,9 +1,5 @@
 # CLDF dataset derived from Starostin's "Hmong Mien family in the Global Lexicostatistical Database" from 1991 
 
-Cite the source dataset as
-
-> Starostin, Sergej. 1991. Altajskaja problema i proischoždenije japonskogo jazyka [The Altaic problem and the origin of the Japanese language]. Moscow: Nauka.
-
 
 Conceptlists in Concepticon:
 - [Starostin-1991-110](https://concepticon.clld.org/contributions/Starostin-1991-110)

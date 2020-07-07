@@ -1,7 +1,6 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "Starostin, Sergej. 1991. Altajskaja problema i proischo\u017edenije japonskogo jazyka [The Altaic problem and the origin of the Japanese language]. Moscow: Nauka.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:format": [
         "http://concepticon.clld.org/contributions/Starostin-1991-110"
@@ -16,7 +15,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/starostinhmongmien",
-            "dc:created": "7cac694"
+            "dc:created": "5935343"
         },
         {
             "rdf:type": "prov:Entity",
