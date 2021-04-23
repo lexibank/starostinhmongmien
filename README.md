@@ -1,12 +1,18 @@
 # CLDF dataset derived from Starostin's "Hmong Mien family in the Global Lexicostatistical Database" from 1991 
 
+Cite the source dataset as
+
+> Starostin GS. Annotated Swadesh wordlists for the Hmong group (Hmong-Mien family). In: Starostin GS, editor. The Global Lexicostatistical Database. Moscow: RGU; 2013. URL: https://starling.rinet.ru/new100/hmo.xls.
+
+This dataset is licensed under a CC-BY-4.0 license
+
 
 Conceptlists in Concepticon:
 - [Starostin-1991-110](https://concepticon.clld.org/contributions/Starostin-1991-110)
 ## Statistics
 
 
-[![Build Status](https://travis-ci.org/lexibank/starostinhmongmien.svg?branch=master)](https://travis-ci.org/lexibank/starostinhmongmien)
+[![CLDF validation](https://github.com/lexibank/starostinhmongmien/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/starostinhmongmien/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
@@ -27,7 +33,9 @@ Conceptlists in Concepticon:
 
 # Contributors
 
-Name | GitHub user | Role
- --- | --- | --- 
-Robert Forkel | @xrotwang | maintainer
+Name | GitHub user | Description | Role
+ --- | --- | ---| --- 
+Robert Forkel | @xrotwang | | Other
+George S. Starostin | | data collection | DataCollector, Author
+
 
