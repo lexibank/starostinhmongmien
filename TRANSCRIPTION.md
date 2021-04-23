@@ -60,8 +60,6 @@
 | ɔ̃ | 23 | ✓ | ✓ |
 | ɕ | 23 | ✓ | ✓ |
 | ⁸/ | 22 | ? | ? |
-| + | 21 | ✓ | ✓ |
-| <<#>> | 21 | ? | ? |
 | d | 21 | ✓ | ✓ |
 | pʰ | 20 | ✓ | ✓ |
 | qʰ | 20 | ✓ | ✓ |
@@ -145,7 +143,7 @@
 | ɲ̥ʰ | 1 | ✓ | ✓ |
 | ʎ̥ʰ | 1 | ✓ | ✓ |
 
-(139 rows)
+(137 rows)
 
 
 
@@ -237,13 +235,12 @@
 | Numao-7_bite-1 | Numao | 7_bite | tɑu8 | t ɑ u <s> ⁸/ </s> |
 | Numao-8_black-1 | Numao | 8_black | ƛi̯uŋ1 | tɬ j u ŋ <s> ¹/ </s> |
 | Numao-9_blood-1 | Numao | 9_blood | ncʰi̯ɑn3 | n tsʰ j ɑ n <s> ³/ </s> |
-| Pa_Na-2_ashes-1 | Pa_Na | 2_ashes | pʰi̯o44 # | pʰ j o ⁴⁴ + <s> <<#>> </s> |
 | Pa_Na-4_belly-1 | Pa_Na | 4_belly | cʰi̯o1 | tsʰ j o <s> ¹/ </s> |
 | Pa_Na-5_big-1 | Pa_Na | 5_big | liw1 | l i w <s> ¹/ </s> |
 | Pa_Na-6_bird-1 | Pa_Na | 6_bird | la6=nu6 | l a <s> ⁶/ </s> → n u <s> ⁶/ </s> |
-| Pa_Na-7_bite-1 | Pa_Na | 7_bite | tau53 # | t a u ⁵³ + <s> <<#>> </s> |
 | Pa_Na-8_black-1 | Pa_Na | 8_black | ƛõ1 | tɬ õ <s> ¹/ </s> |
 | Pa_Na-9_blood-1 | Pa_Na | 9_blood | biŋ3 | b i ŋ <s> ³/ </s> |
+| Qiandong-10_bone-1 | Qiandong | 10_bone | po3=sʰoŋ3 | p o <s> ³/ </s> → sʰ o ŋ <s> ³/ </s> |
 | Qiandong-1_all-1 | Qiandong | 1_all | sɛ4 | s ɛ <s> ⁴/ </s> |
 | Qiandong-2_ashes-1 | Qiandong | 2_ashes | ʆʰu3 | ɕ u <s> ³/ </s> |
 | Qiandong-3_bark-1 | Qiandong | 3_bark | qa1=liu5-tǝu5 | q a <s> ¹/ </s> → l i u <s> ⁵/ </s> ← t ǝ u <s> ⁵/ </s> |
@@ -253,6 +250,7 @@
 | Qiandong-7_bite-1 | Qiandong | 7_bite | tǝ8 | t ǝ <s> ⁸/ </s> |
 | Qiandong-8_black-1 | Qiandong | 8_black | ɬɛ1 | ɬ ɛ <s> ¹/ </s> |
 | Qiandong-9_blood-1 | Qiandong | 9_blood | ʃʰaŋ3 | ɕʰ a ŋ <s> ³/ </s> |
+| Western_Xiangxi-10_bone-1 | Western_Xiangxi | 10_bone | qo1=soŋ3 | q o <s> ¹/ </s> → s o ŋ <s> ³/ </s> |
 | Western_Xiangxi-1_all-1 | Western_Xiangxi | 1_all | sa5 | s a <s> ⁵/ </s> |
 | Western_Xiangxi-2_ashes-1 | Western_Xiangxi | 2_ashes | ʆi3 | ɕ i <s> ³/ </s> |
 | Western_Xiangxi-3_bark-1 | Western_Xiangxi | 3_bark | qo1=ki̯ɔ5-ntu5 | q o <s> ¹/ </s> → k j ɔ <s> ⁵/ </s> ← n t u <s> ⁵/ </s> |
