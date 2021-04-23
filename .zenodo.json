@@ -7,15 +7,27 @@
     ],
     "creators": [
         {
-            "name": "Robert Forkel"
+            "name": "George S. Starostin"
         }
     ],
-    "contributors": [],
+    "contributors": [
+        {
+            "name": "Robert Forkel",
+            "type": "Other"
+        },
+        {
+            "name": "George S. Starostin",
+            "type": "DataCollector"
+        }
+    ],
     "communities": [
         {
             "identifier": "lexibank"
         }
     ],
     "upload_type": "dataset",
-    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Starostin, Sergej. 1991. Altajskaja problema i proischo\u017edenije japonskogo jazyka [The Altaic problem and the origin of the Japanese language]. Moscow: Nauka.</p>\n</blockquote>"
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Starostin GS. Annotated Swadesh wordlists for the Hmong group (Hmong-Mien family). In: Starostin GS, editor. The Global Lexicostatistical Database. Moscow: RGU; 2013. URL: https://starling.rinet.ru/new100/hmo.xls.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
 }

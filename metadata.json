@@ -1,5 +1,6 @@
 {
     "conceptlist": "Starostin-1991-110",
+    "license": "CC-BY-4.0",
     "title": "CLDF dataset derived from Starostin's \"Hmong Mien family in the Global Lexicostatistical Database\" from 1991 ",
-    "citation": ""
+    "citation": "Starostin GS. Annotated Swadesh wordlists for the Hmong group (Hmong-Mien family). In: Starostin GS, editor. The Global Lexicostatistical Database. Moscow: RGU; 2013. URL: https://starling.rinet.ru/new100/hmo.xls."
 }
