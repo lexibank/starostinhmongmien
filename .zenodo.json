@@ -1,5 +1,5 @@
 {
-    "title": "CLDF dataset derived from Starostin's \"Hmong Mien family in the Global Lexicostatistical Database\" from 1991 ",
+    "title": "CLDF dataset derived from Starostin's \"Hmong Mien family in the Global Lexicostatistical Database\" from 1991",
     "access_right": "open",
     "keywords": [
         "cldf:Wordlist",
@@ -7,15 +7,31 @@
     ],
     "creators": [
         {
-            "name": "Robert Forkel"
+            "name": "George Starostin"
         }
     ],
-    "contributors": [],
+    "contributors": [
+        {
+            "name": "Robert Forkel",
+            "type": "Other"
+        },
+        {
+            "name": "Christoph Rzymski",
+            "type": "Other"
+        },
+        {
+            "name": "George Starostin",
+            "type": "DataCollector"
+        }
+    ],
     "communities": [
         {
             "identifier": "lexibank"
         }
     ],
     "upload_type": "dataset",
-    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Starostin, Sergej. 1991. Altajskaja problema i proischo\u017edenije japonskogo jazyka [The Altaic problem and the origin of the Japanese language]. Moscow: Nauka.</p>\n</blockquote>"
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Starostin, George S. (2011): Annotated Swadesh wordlists for the Hmong group (Hmong-Mien family). Moscow: The Global Lexicostatistical Database.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
 }
