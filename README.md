@@ -19,8 +19,7 @@ Conceptlists in Concepticon:
 - [Starostin-1991-110](https://concepticon.clld.org/contributions/Starostin-1991-110)
 ## Notes
 
-Tones were 'fake-phonetisized' and numbers only serve a purpose for distinguishing, not for true
-pronunciation values, as they were missing from the source material.
+Tones were 'fake-phonetisized' and numbers only serve a purpose for distinguishing, not for true pronunciation values, as they were missing from the source material.
 
 
 
@@ -28,14 +27,14 @@ pronunciation values, as they were missing from the source material.
 
 
 [![CLDF validation](https://github.com/lexibank/starostinhmongmien/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/starostinhmongmien/actions?query=workflow%3ACLDF-validation)
-![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
-![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
-![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
+![Glottolog: 100%](etc/badge_languages.svg)
+![Concepticon: 100%](etc/badge_concepts.svg)
+![Source: 100%](etc/badge_sources.svg)
+![BIPA: 100%](etc/badge_bipa.svg)
+![CLTS SoundClass: 100%](etc/badge_sc.svg)
 
-- **Varieties:** 20
-- **Concepts:** 110
+- **Varieties:** 20 (linked to 15 different Glottocodes)
+- **Concepts:** 110 (linked to 110 different Concepticon concept sets)
 - **Lexemes:** 1,827
 - **Sources:** 1
 - **Synonymy:** 1.01
@@ -43,7 +42,7 @@ pronunciation values, as they were missing from the source material.
 - **Cognate Diversity:** 0.12
 - **Invalid lexemes:** 0
 - **Tokens:** 8,701
-- **Segments:** 134 (0 BIPA errors, 0 CTLS sound class errors, 134 CLTS modified)
+- **Segments:** 134 (0 BIPA errors, 0 CLTS sound class errors, 134 CLTS modified)
 - **Inventory size (avg):** 43.90
 
 # Contributors
